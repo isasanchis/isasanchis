@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   * <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
-<h3>Meu objetivo é encontrar a primeira oportunidade como Dev Júnior! Fique à vontade para se conectar comigo e me perguntar sobre meus projetos. Além disso, estou super aberta a aprender mais sobre Javascript, Vue.JS, Sass, npm/yarn! 😄</h3>
+<h3>Meu objetivo é encontrar a primeira oportunidade como Dev Júnior! Fique à vontade para se conectar comigo e me perguntar sobre meus projetos. Além disso, estou super aberta a aprender mais sobre Javascript e Vue.JS! 😄</h3>
 <hr>
 
 <h4>📫 Para me encontrar ou contatar em outras redes:</h4>
