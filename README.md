@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   * <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   * <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  * <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <h3>Meu objetivo é encontrar a primeira oportunidade como Dev Júnior! Fique à vontade para se conectar comigo e me perguntar sobre meus projetos! 😄</h3>
 <hr>
