@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3>Sou aluna de ADS na Faculdade Impacta, e meu atual objetivo é uma vaga de estágio como desenvolvimento de software. Fique à vontade para trocarmos ideias sobre meus projetos/programações e afins! 😄</h3>
 <hr>
 
-<h4>📫 Para me encontrar ou contatar em outras redes:</h4>
+<h4>📫 Para me contatar em outras redes:</h4>
 
 <a href="https://www.linkedin.com/in/isabella-sanchis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
