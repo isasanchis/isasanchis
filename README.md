@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h3>🌱 Estudante das principais tecnologias do desenvolvimento de software: </h3>
+  <h3>🌱 Estudante das principais tecnologias de programação: </h3>
 
   * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   * <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   * <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-<h3>Sou aluna de ADS na Faculdade Impacta, e meu atual objetivo é uma vaga de estágio como desenvolvimento de software. Fique à vontade para trocarmos ideias sobre meus projetos/programações e afins! 😄</h3>
+<h3>Sou aluna de ADS na Faculdade Impacta, e meu atual objetivo é uma vaga de estágio como desenvolvedora. Fique à vontade para trocarmos ideias sobre meus projetos/programações e afins! 😄</h3>
 <hr>
 
 <h4>📫 Para me contatar em outras redes:</h4>
