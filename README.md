@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<h3>Sou aluna de ADS na Faculdade Impacta, e meu atual objetivo é uma vaga de estágio como desenvolvedora. Fique à vontade para trocarmos ideias sobre meus projetos/programações e afins! 😄</h3>
 <hr>
 
 <h4>📫 Para me contatar em outras redes:</h4>
