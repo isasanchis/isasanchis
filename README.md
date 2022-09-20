@@ -1,4 +1,4 @@
-### Hi, I'm Isabella! 👋
+### Hello, I'm Isabella! 👋
 
 <!--
 **isasanchis/isasanchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h3>Front-end developer learning new technologies:</h3>
+  <h3>Learning some technologies:</h3>
 
   * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4>📫 Feel free to contact me:</h4>
+<h4>📫 How to reach me:</h4>
 
 <a href="https://www.linkedin.com/in/isabella-sanchis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
