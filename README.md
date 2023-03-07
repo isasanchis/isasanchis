@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h3>I'm a software developer intern working at Avanade. Currently learning these technologies:</h3>
+  <h3>I'm a software developer intern working at Avanade. Currently studying these technologies:</h3>
 
   * <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   * <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
