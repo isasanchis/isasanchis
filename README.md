@@ -1,4 +1,4 @@
-### Hello, I'm Isabella! 👋
+### Hi! I'm Isabella 👋
 
 <!--
 **isasanchis/isasanchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h3>I'm a tech intern working at Avanade who's learning some technologies:</h3>
+  <h3>I'm a developer intern working at Avanade. Currently learning these technologies:</h3>
 
   * <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   * <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
