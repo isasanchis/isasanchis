@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 <h4>📫 Reach me out:</h4>
 
 <a href="https://www.linkedin.com/in/isabella-sanchis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isasanchis3@gmail.com&su=SUBJECT&body=BODY&b"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
